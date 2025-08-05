@@ -115,3 +115,5 @@ Or via Gradio/Widget UI:
 ---
 
 
+📜 License
+This project is for educational and non-commercial use. Attribution encouraged.
